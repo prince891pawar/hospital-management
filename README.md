@@ -17,6 +17,7 @@ A full-stack **Hospital Management System** designed to simplify and digitize ho
 - REST API
 - JWT Authentication
 - bcrypt
+- - redis
 
 ### Database
 - MongoDB
